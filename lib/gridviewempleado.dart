@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 
-class MyHomePage extends StatefulWidget {
-  MyHomePage({Key? key}) : super(key: key);
+class paginainicial extends StatefulWidget {
+  paginainicial({Key? key}) : super(key: key);
   @override
-  _MyHomePageState createState() => _MyHomePageState();
+  paginainicialState createState() => paginainicialState();
 } //widget con estado
 
 class _MyHomePageState extends State<MyHomePage> {
