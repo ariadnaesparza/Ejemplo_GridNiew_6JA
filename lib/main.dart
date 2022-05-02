@@ -2,10 +2,10 @@ import 'package:flutter/material.dart';
 import 'package:esparza/gridviewempleado.dart';
 
 void main() {
-  runApp(MyApp());
+  runApp(SorianaApp());
 } //funcion principal
 
-class MyApp extends StatelessWidget {
+class SorianaApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
